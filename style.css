@@ -1,0 +1,60 @@
+/* Navigation Bar Styles */
+
+.nav-item ul li {
+  list-style-type: none;
+}
+
+/* Carousel Styles */
+
+.carousel-inner, .carousel-item {
+  height: 100vh;
+}
+
+.carousel-item img {
+  height: 100%;
+  object-fit: cover;
+}
+
+/* Section Product Styles */
+
+.card img {
+  width: 100%;
+  height: 300px;
+  object-fit: cover;
+}
+
+/* Section Cards Styles */
+
+.card-body h4 {
+  font-size: 50px;
+  color: white;
+}
+
+/* Section Three Columns */
+
+.three-columns {
+  background-color: #eff2f5;
+}
+
+.three-columns .box i{
+ color: black;
+ font-size: 16px;
+}
+
+.three-columns .box a {
+  text-decoration: none;
+}
+
+/* Section Footer Styles */
+
+.footer {
+  background-color: #c0c0c0fd;
+
+}
+
+.footer .col-md-8 a {
+  text-decoration: none;
+  color: black;
+  padding-left: 10px;
+}
+  
